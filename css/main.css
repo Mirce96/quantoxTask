@@ -1,0 +1,92 @@
+h1
+{
+  text-transform: capitalize;
+}
+.buttons
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  padding-top: 50px;
+  word-spacing: 80px;
+}
+
+.log_btn .reg_btn
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 120px;
+}
+
+.log_btn:hover
+{
+  color: #000;
+  text-decoration: none;
+}
+
+
+.reg_btn:hover
+{
+  color: #000;
+  text-decoration: none;
+}
+
+.search_section
+{
+  padding-top: 80px;
+}
+
+.search_section .search_btn
+{
+    background-color: grey;
+    color: #fff;
+    border: 2px solid #000;
+    width: 100px;
+    height: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    float: right;
+}
+.search_section .search_btn:hover
+{
+  color: red;
+}
+
+.back_btn
+{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top: 12px;
+    background-color: grey;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 2px solid #000;
+}
+
+.back_btn:hover
+{
+  color: #000;
+  text-decoration: none;
+}
+
+.register_section
+{
+  padding-top: 50px;
+}
+
+.login_section
+{
+  padding-top: 50px;
+}
+
+.result_section
+{
+  padding-top: 50px;
+}
